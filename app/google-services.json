@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742625496782",
+    "project_id": "vianature-app",
+    "storage_bucket": "vianature-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742625496782:android:4ad53d496c70426f288a9f",
+        "android_client_info": {
+          "package_name": "com.example.vianatureapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742625496782-sqppotv5p9evo7fhk6i3pbc8f3mufqdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJSB8poOJqN19aRHRRXoOHKT3ie8FIKpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742625496782-sqppotv5p9evo7fhk6i3pbc8f3mufqdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
